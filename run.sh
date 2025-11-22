@@ -11,4 +11,4 @@ echo ""
 echo "Starting game..."
 echo ""
 
-python3 core/main.py
+python3 game.py
